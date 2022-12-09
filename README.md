@@ -5,21 +5,21 @@ Projeto Flutter usando API da HERE Maps.
 
 ## Processos :
 
-[x]Homescreen;
+[x]-Homescreen;
 
-[]Dependências;
+[]-Dependências;
 
-[]Manifest.xml;
+[]-Manifest.xml;
 
-[]Plugins;
+[]-Plugins;
 
-[]SDK Here - Free;
+[]-SDK Here - Free;
 
-[]Conexão com API;
+[]-Conexão com API;
 
-[]Interface;
+[]-Interface;
 
-[]Localizacao de Coordenada;
+[]-Localizacao de Coordenada;
 
 ## Getting Started
 
