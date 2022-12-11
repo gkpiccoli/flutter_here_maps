@@ -9,6 +9,8 @@ Projeto Flutter usando API da HERE Maps.
 
 []-Dependências;
 
+[] - Pubspec.yaml
+
 []-Manifest.xml;
 
 []-Plugins;
