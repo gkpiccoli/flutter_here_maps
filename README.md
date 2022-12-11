@@ -7,7 +7,7 @@ Projeto Flutter usando API da HERE Maps.
 
 [x]-Homescreen;
 
-[]-Dependências;
+[]-Dependências; (Precisa adicionar cartão de crédito ao HERE)
 
 [] - Pubspec.yaml
 
